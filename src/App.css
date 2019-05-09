@@ -1,0 +1,50 @@
+.App-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 100vh;
+}
+
+.table,
+th,
+td {
+  border: none;
+}
+
+.currencyTable {
+  width: 50%;
+  background-color: #090c1f;
+  border-collapse: collapse;
+  font-size: 32px;
+  border-radius: 15px;
+  -moz-border-radius: 15px;
+  overflow: hidden;
+  color: red;
+}
+
+.currencyTable td {
+  padding: 15px;
+}
+
+.currencyTable th {
+  padding: 20px;
+  color: white;
+  border-bottom: 2px solid white;
+}
+
+.currencyTable td {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+
+p {
+  text-align: left;
+  font-weight: 300;
+  line-height: 24px;
+}
+
+p a {
+  font-weight: 500;
+  color: white;
+}
