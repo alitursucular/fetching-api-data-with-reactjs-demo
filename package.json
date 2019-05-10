@@ -2,7 +2,7 @@
   "name": "fetching-api-data-with-reactjs-demo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/alitursucular/fetching-api-data-with-reactjs-demo",
+  "homepage": "https://alitursucular.github.io/fetching-api-data-with-reactjs-demo",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.5",
