@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/alitursucular/fetching-api-data-with-reactjs-demo/precache-manifest.6e13c149842bd8591d3fdbb83ddedfdf.js"
+  "/fetching-api-data-with-reactjs-demo/precache-manifest.1425874da29e8a4bbd35be47d543d4bb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/alitursucular/fetching-api-data-with-reactjs-demo/index.html", {
+workbox.routing.registerNavigationRoute("/fetching-api-data-with-reactjs-demo/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
